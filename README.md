@@ -14,6 +14,20 @@
 2. Creational Pattern: Use Prototype Pattern to clone product objects when adding to the cart.
 3. OOP: Emphasize encapsulation and inheritance. For instance, create a base 'Product' class and specialized subclasses for different types of products.
 
+## Usage
+1.clone the repositorites.
+https://github.com/KUNALGUPTA02/E-Commerce--Educational-Initiatives-.git
+```sh
+cd E-Commerce--Educational-Initiatives-main
+```
+2.Run the Application.
+```sh
+python main.py
+```
+
+
+
+
 ## Possible Inputs
 - Products: [{name: "Laptop", price: 1000, available: true}, {name: "Headphones", price: 50, available: true}]
 - Add to Cart: "Laptop"
