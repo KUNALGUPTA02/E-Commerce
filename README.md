@@ -1,4 +1,4 @@
-# E-Commerce--Educational-Initiatives-
+# E-Commerce-
 
 ## Problem Statement
 ### Develop a simple E-commerce cart system where users can add products to their cart, update quantities, and view the total bill. Products should have attributes like name, price, and availability status.
@@ -18,7 +18,7 @@
 1.clone the repositorites.
 https://github.com/KUNALGUPTA02/E-Commerce--Educational-Initiatives-.git
 ```sh
-cd E-Commerce--Educational-Initiatives-main
+cd E-Commerce-main
 ```
 2.Run the Application.
 ```sh
